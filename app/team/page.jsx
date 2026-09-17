@@ -30,6 +30,7 @@ import soumyadeepa from "@/assets/team/people/ecs/Soumyadeepa1.jpg";
 import rishabh from "@/assets/team/people/advisory/rishabh.jpg";
 import kuber from "@/assets/team/people/advisory/kuber.jpg";
 import arnab from "@/assets/team/people/advisory/arnab.png";
+import ganesh from "@/assets/team/people/advisory/ganesh.jpg";
 import pranavU from "@/assets/team/people/advisory/pranav.jpg";
 import adityaA from "@/assets/team/people/advisory/aditya.png";
 import anhad from "@/assets/team/people/advisory/anhad.jpg";
@@ -216,6 +217,7 @@ const TeamPage = () => {
             <Person img={rishabh} name="Rishabh Pandey" link1="https://www.linkedin.com/in/rishabh-r-pandey-848615218/" link2="https://www.instagram.com/mr.rishabh_978/" />
             <Person img={arnab} name="Arnab Roy" link1="https://www.linkedin.com/in/arnab-roy-913548313/" link2="https://www.instagram.com/arnab_1411/?hl=en" />
             <Person img={kuber} name="Kuber Chhabra" link1="https://www.linkedin.com/in/kuber-chhabra-616101295" link2="https://www.instagram.com/kuber.chhabra/" />
+            <Person img={ganesh} name="Ganesh Kotwade" link1="https://www.linkedin.com/in/ganesh-kotwade-2a2191275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" link2="https://www.instagram.com/gannyk?igsh=ZWhtMTIxODJoZmsz" />
             <Person img={pranavU} name="Pranav Upadhyay" link1="https://www.linkedin.com/in/pranav-upadhyay-6a526a311" link2="https://www.instagram.com/_lifewithpranav_" />
             <Person img={adityaA} name="Aditya Agrawal" link1="https://www.linkedin.com/in/aditya-agrawal-ab5979288" link2="https://www.instagram.com/adityaa_agrawalll" />
             <Person img={anhad} name="Anhadbani Anand" link1="https://www.linkedin.com/in/anhadbani-anand-2bab4a305" link2="https://www.instagram.com/anhad265" />
